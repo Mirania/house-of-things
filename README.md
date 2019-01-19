@@ -1,3 +1,5 @@
+GUI made using Java Swing. Uses at least 12 basic Java coding patterns.
+
 **Patterns applied:**
 
 1. Singleton (CommandCenter & Logger)
@@ -12,11 +14,3 @@
 10. Factory method (copy method in Programmable, copyGroup method in Group)
 11. State (Logger destination)
 12. Visitor (StatusVisitor & TableInfoVisitor & AdapterVisitor & ActionVisitor)
-
-**Patterns help:**
-
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-**Source:**
-
-![](https://i.imgur.com/N2UpaOX.png)
